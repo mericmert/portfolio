@@ -200,11 +200,12 @@ nav a:hover{
     min-height: 30vh;
   }
   .resume-container{
-    height: 960px;
-    margin-top: 20px;
+    height: 900px;
+    margin-top: 80px;
     justify-content: start;
   }
   .card{
     width: 75%;
+    margin-top: 1em;
   }
 }
